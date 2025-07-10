@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+This is Bob's version of the file
+=======
 This is Alice's version of the file.
+>>>>>>> origin/main
